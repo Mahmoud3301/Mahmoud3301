@@ -2,9 +2,9 @@
 
 # Hi, I'm Mahmoud Saeed Mansour 👋
 
-### 🤖 AI & Machine Learning Engineer | Computer Vision | NLP & RAG
+### 🤖 AI & Machine Learning Engineer | Computer Vision | NLP & RAG | 📊 Data Analytics
 
-**Building Intelligent Solutions with AI**
+**Building Intelligent Solutions with AI & Data**
 
 <p>
   <a href="https://github.com/Mahmoud3301">
@@ -24,27 +24,29 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science and Artificial Intelligence graduate from Pharos University in Alexandria**, passionate about building intelligent systems that solve real-world problems.
+I'm a **Computer Science and Artificial Intelligence graduate from Pharos University in Alexandria**, passionate about building intelligent systems, analyzing data, and solving real-world problems.
 
-* 🤖 Focused on Artificial Intelligence and Machine Learning.
+* 🤖 Focused on Artificial Intelligence, Machine Learning, and Deep Learning.
 * 👁️ Experienced in Computer Vision, object detection, and image processing.
 * 🧠 Interested in Natural Language Processing, Large Language Models, and RAG systems.
+* 📊 Interested in Data Analytics, Business Intelligence, and data visualization using Excel and Power BI.
+* 📈 Exploring data cleaning, analysis, dashboard creation, and data-driven insights.
 * 💬 Building intelligent chatbots and retrieval-augmented applications.
 * 📱 Exploring Flutter and AI-powered mobile applications.
 * 🛡️ Interested in intelligent security systems and IoT integration.
 * 👨‍🏫 Programming and AI Tutor, helping students learn programming and artificial intelligence.
 
-> My goal is to turn complex ideas into practical, intelligent, and reliable software solutions.
+> My goal is to turn complex ideas and data into practical, intelligent, and reliable software solutions.
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,dart,js,html,css" alt="Programming Languages">
 </p>
 
-### AI, Machine Learning & Computer Vision
+### 🤖 AI, Machine Learning & Computer Vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI Technologies">
@@ -52,7 +54,24 @@ I'm a **Computer Science and Artificial Intelligence graduate from Pharos Univer
   <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
 </p>
 
-### NLP, LLMs & Data
+### 📊 Data Analytics & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Power BI">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+* 📈 Data Analysis & Visualization
+* 📊 Interactive Dashboards & Business Intelligence
+* 🧹 Data Cleaning & Transformation
+* 🔎 Exploratory Data Analysis (EDA)
+* 🧮 Excel Formulas, PivotTables & Reporting
+* 📉 Data-Driven Insights & Reporting
+
+### 🧠 NLP, LLMs & Data
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=flat-square" alt="LLM Applications">
@@ -61,7 +80,7 @@ I'm a **Computer Science and Artificial Intelligence graduate from Pharos Univer
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="Databases">
 </p>
 
-### Development & Tools
+### 💻 Development & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,flutter,fastapi,vscode" alt="Development Tools">
@@ -113,6 +132,17 @@ A computer vision system designed to detect license plates and analyze vehicle s
 
 **Technologies:** Python · OpenCV · OCR · Computer Vision
 
+### 📊 Data Analytics & Business Intelligence
+
+Using data analysis tools to transform raw data into meaningful insights and clear visual reports.
+
+* Microsoft Excel for organizing, cleaning, and analyzing data.
+* Power BI for interactive dashboards and business intelligence.
+* Python, Pandas, and NumPy for data processing and analysis.
+* SQL for querying and working with structured datasets.
+
+**Technologies:** Microsoft Excel · Power BI · SQL · Python · Pandas · NumPy
+
 <div align="center">
 
 [![Explore Repositories](https://img.shields.io/badge/Explore-All%20Repositories-0A66C2?style=for-the-badge\&logo=github)](https://github.com/Mahmoud3301?tab=repositories)
@@ -139,7 +169,7 @@ A computer vision system designed to detect license plates and analyze vehicle s
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on AI projects, computer vision applications, NLP solutions, and innovative software products.
+I'm always interested in collaborating on projects involving AI, computer vision, NLP, data analytics, business intelligence, and innovative software solutions.
 
 <div align="center">
 
